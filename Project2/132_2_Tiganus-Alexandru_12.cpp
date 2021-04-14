@@ -521,10 +521,7 @@ void menu(){
 }
 
 int main(){
-//    cardPremium a("32", "32", "32", 32,32,32,32,32);
-//    cardPremium b("33242", "322", "32", 32,32,32,32,32);
-//    a=b;
-//    cout<<a<<b;
+
     menu();
     return 0;
 
