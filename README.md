@@ -1,3 +1,3 @@
 # OOPProject
 
-Project for OOP Course, University of Bucharest 1st year, 2020.
+Projects for OOP Course, University of Bucharest 1st year, 2020.
